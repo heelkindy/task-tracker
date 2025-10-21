@@ -2,6 +2,8 @@
 
 A simple command-line interface (CLI) application built in Java to track and manage your tasks. This project helps you practice programming skills including working with the filesystem, handling user inputs, and building a simple CLI application.
 
+> **Project Inspiration**: This project is based on the Task Tracker project from [roadmap.sh](https://roadmap.sh/projects/task-tracker), designed for learning purposes to practice programming skills and build practical CLI applications.
+
 ## Features
 
 -   ✅ Add, update, and delete tasks
@@ -179,6 +181,10 @@ This project was built using:
 -   **Native file system operations**
 -   **Simple JSON parsing and generation**
 -   **Command-line argument processing**
+
+## Acknowledgments
+
+This project is inspired by the [Task Tracker project on roadmap.sh](https://roadmap.sh/projects/task-tracker), which provides excellent learning opportunities for developers to practice programming skills and build practical applications.
 
 ## License
 
